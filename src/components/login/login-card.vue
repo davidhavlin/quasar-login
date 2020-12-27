@@ -77,7 +77,7 @@ export default {
   },
   methods: {
     clickTest() {
-      //
+      // do something
     }
   }
 };
